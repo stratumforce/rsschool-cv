@@ -1,0 +1,102 @@
+body {
+  font-family: "Heebo", "Arial", sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+ul {
+  padding: 0;
+}
+
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+/* Utilities */
+.bg-gray {
+  background-color: rgb(247, 247, 247);
+}
+
+/* Header Section */
+
+.hero {
+  display: flex;
+  height: 200px;
+  padding: 50px;
+  align-items: flex-end;
+  justify-content: space-between;
+  background-color: rgb(247, 247, 247);
+}
+
+.contacts ul {
+  display: flex;
+}
+
+.contacts ul li {
+  margin-right: 30px;
+  list-style: none;
+}
+
+.fullname {
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.logo img {
+  border-radius: 50%;
+}
+
+/* Main Section */
+.grid {
+  display: grid;
+  grid-template-areas:
+    "summary summary summary"
+    "code-example code-example skills"
+    "experience experience experience"
+    "education education languages";
+}
+
+.summary {
+  grid-area: summary;
+}
+
+.code-example {
+  grid-area: code-example;
+}
+
+.skills {
+  grid-area: skills;
+  margin: 0 20px;
+}
+
+.skills ul {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 1.2rem;
+  list-style: none;
+}
+
+.skills ul li {
+  margin: 3px;
+  padding: 5px;
+  color: midnightblue;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.lead {
+  font-size: 1.3rem;
+}
+
+.experience {
+  grid-area: experience;
+}
+
+.experience article {
+}
