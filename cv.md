@@ -51,3 +51,15 @@ const filterInt = value => {
 
   - Learned how to build a cli application using patterns, such as Adapter and Facade
   - Learned how to test an application using Jest and Unit Testing
+
+## Education
+
+- Incomplete higher education
+- Back-End Development course on [Hexlet.io](https://hexlet.io) (2017)
+- Multiple Courses on [Udemy](https://udemy.com/) (HTML, CSS, ReactJS, Python, Data Structures and Algorithms, etc) (2017-2019)
+- HTML and CSS courses on [codecademy](https://codecademy.com/profiles/stratumforce) (2019)
+
+## Languages
+
+- Russian - Native
+- English - Intermediate
