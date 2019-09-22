@@ -42,11 +42,13 @@ const filterInt = value => {
 ## Experience
 
 - April 2017
+
   CLI game project [Brain Games](https://github.com/stratumforce/project-lvl1-s95) on [Hexlet.io](https://hexlet.io/)
 
   - Learned how to build a project using Node.js, npm, Babel, Git, ESLint, Travis CI and publish the project to the npm registry
 
 - May 2017
+
   CLI app [gendiff](https://github.com/stratumforce/project-lvl2-s96) on [Hexlet.io](https://hexlet.io/)
 
   - Learned how to build a cli application using patterns, such as Adapter and Facade
