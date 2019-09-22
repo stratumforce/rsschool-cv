@@ -59,7 +59,7 @@ const filterInt = value => {
 - Incomplete higher education
 - Back-End Development course on [Hexlet.io](https://hexlet.io) (2017)
 - Multiple Courses on [Udemy](https://udemy.com/) (HTML, CSS, ReactJS, Python, Data Structures and Algorithms, etc) (2017-2019)
-- HTML and CSS courses on [codecademy](https://codecademy.com/profiles/stratumforce) (2019)
+- HTML and CSS courses on [Codecademy](https://codecademy.com/profiles/stratumforce) (2019)
 
 ## Languages
 
